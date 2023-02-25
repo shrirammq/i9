@@ -51,6 +51,7 @@ public class TC_001_AddToCart {
 	@DataProvider(name="getTestData")
 	public String[][] getTestData(){
 		String[][] data = {
+				{"standard_user","secret_sauce"},
 				{"standard_user","secret_sauce"}
 				
 		};
