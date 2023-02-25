@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="i9">
+	<test name="TC_001_AddToCart">
+		<classes>
+			<class name="com.automation.TC_001_AddToCart" />
+		</classes>
+	</test>
+</suite>
